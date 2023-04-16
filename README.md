@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/longfei-g/pkg3.7/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/longfei-g/pkg3.7/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/longfei-g/pkg3.7/branch/main/graph/badge.svg?token=9FLXUSK0XL)](https://codecov.io/gh/longfei-g/pkg3.7)
 <!-- badges: end -->
 
 The goal of pkg3.7 is to …

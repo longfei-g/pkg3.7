@@ -4,6 +4,8 @@
 # pkg3.7
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/longfei-g/pkg3.7/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/longfei-g/pkg3.7/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of pkg3.7 is to …

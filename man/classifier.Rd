@@ -11,8 +11,12 @@ classifier(bill_length, flipper_length)
 
 \item{flipper_length}{penguin's flipper length}
 }
+\value{
+a string which indicates the penguin type
+}
 \description{
-Classify a penguin
+outputs the penguin's type by the given bill length
+and flipper length.
 }
 \examples{
 classifier(100,200)

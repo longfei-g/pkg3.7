@@ -1,9 +1,14 @@
 #' Classify a penguin
 #'
+#' outputs the penguin's type by the given bill length
+#' and flipper length.
+#'
 #' @param bill_length penguin's bill length
 #' @param flipper_length penguin's flipper length
 #'
 #' @export
+#'
+#' @return a string which indicates the penguin type
 #'
 #' @examples
 #' classifier(100,200)
